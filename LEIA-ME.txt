@@ -1,0 +1,5 @@
+VoiceClone Lab v6 — Paulo, Guilherme e Frederico
+Extraia o ZIP inteiro e abra index.html no navegador. Não separe o HTML das pastas assets.
+Análise acústica exploratória; porcentagem não é verificação biométrica de identidade.
+Dados de F0 do Frederico estimados por autocorrelação (método diferente dos arquivos anteriores); não interpretar diferenças pequenas como resultado científico.
+Os textos e prompts exatos das gerações devem ser confirmados antes da entrega acadêmica.
